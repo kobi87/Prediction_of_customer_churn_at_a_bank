@@ -6,16 +6,12 @@ import streamlit as st
 from PIL import Image
 
 # load transform OneHotEncoder
-# transform_in = open("OneHotEncoder.pkl","rb")
-# OneHotEncoder=pickle.load(transform_in)
 if os.path.isfile("./OneHotEncoder.pkl"):
   OneHotEncoder = pickle.load(open("./OneHotEncoder.pkl", "rb"))
 else:
   raise FileNotFoundError
 
 # load ML model
-# pickle_in = open("model.pkl","rb")
-# classifier=pickle.load(pickle_in)
 if os.path.isfile("./model.pkl"):
   classifier = pickle.load(open("./model.pkl", "rb"))
 else:

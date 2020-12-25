@@ -44,7 +44,7 @@ def main():
     <style>
     body {
     background-image: url("https://hicenter.co.il/wp-content/uploads/2016/01/bkg.jpg");
-    background-size: cover%;
+    background-size: cover;
     background-repeat: no-repeat;
     }
     </style>

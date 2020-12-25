@@ -81,7 +81,7 @@ def main():
     creditscore = st.slider('Credit Score', 300, 900, 700)
     tenure = st.slider('Tenure Payment Plan', 0, 10, 4)
 
-    balance = st.slider('Estimated Salary', 0, 260000, 50000)    
+    balance = st.slider('Balance', 0, 260000, 50000)    
     numofproducts = st.slider('Number of products', 1, 4, 2)
     
     card = st.radio("Has a card ?",('Yes', 'No'))

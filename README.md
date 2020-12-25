@@ -9,7 +9,7 @@
   * [Installation](#installation)
   * [Run the Web App on the local machine](#run-the-Web-app-on-the-local-machine)
   * [Deployement on Heroku](#deployement-on-heroku)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug / Feature Request](#bug-/-feature-request) Bug / Feature Request
   * [Technologies Used](#technologies-used)
   
 ## Demo

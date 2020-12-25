@@ -43,7 +43,7 @@ def main():
     page_bg_img = '''
     <style>
     body {
-    background-image: url("https://lh3.googleusercontent.com/proxy/eH-p1vbTE1iPYGJsz6qglnfDUB7dbm-gD7Vm6yewGbJm0GS5O_GLuKTzvBhZtY2Ooc2E91FgXZMfUAxo7ZMTM1M7OZfVKLwIvwsb2ZxZtS7w6F1-a2MRnbgI7TcsSpqPrIUH3MnAV8S9cOx4xTBuWPji487IB7sRS7MkQrc2");
+    background-image: url("https://hicenter.co.il/wp-content/uploads/2016/01/bkg.jpg");
     background-size: cover%;
     background-repeat: no-repeat;
     }

@@ -13,8 +13,8 @@
   * [Technologies Used](#technologies-used)
   
 ## Demo
-Link: [https://price-housing-prediction-api.herokuapp.com/](https://price-housing-prediction-api.herokuapp.com/) 
-[![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/bank.png)](https://price-housing-prediction-api.herokuapp.com/)
+Link: [https://prediction-customer-churn-api.herokuapp.com/](https://prediction-customer-churn-api.herokuapp.com/) 
+[![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/bank.png)](https://prediction-customer-churn-api.herokuapp.com/)
 
 
 ## Overview

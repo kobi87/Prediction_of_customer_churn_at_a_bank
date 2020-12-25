@@ -26,9 +26,9 @@ To train the machine learning model, we used the bank_churn dataset. The data fi
 
 ## Technical Aspect
 This project is divided into four parts:
-1. [Prediction of Customer Churn at a Bank: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Prediction_of_customer_churn_at_a_bank/blob/main/prediction_of_customer_churn_at_a_bank.ipynb)
+1. [Prediction of Customer Churn at a Bank: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/prediction_of_customer_churn_at_a_bank.ipynb)
 2. [Create pickle file for the best obtained ML model.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/Create_pkl.ipynb)
-3. [Building a Predict-Customer-Churn-Banc.py  web app.](https://github.com/kh-bilal/Prediction_of_customer_churn_at_a_bank/blob/main/Predict-Customer-Churn-Banc.py)
+3. [Building a Predict-Customer-Churn-Banc web app.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/Predict-Customer-Churn-Banc.py)
 4. Hosting a Streamlit web app on Heroku.
 
 ## Installation

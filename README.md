@@ -1,5 +1,7 @@
 # Prediction-customer-churn web app deployed on Heroku
 
+[![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/img.png)]
+
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)

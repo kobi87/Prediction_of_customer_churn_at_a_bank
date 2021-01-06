@@ -40,16 +40,16 @@ def predict(sample_in):
 
 def main():
     #background
-    page_bg_img = '''
-    <style>
-    body {
-    background-image: url("https://hicenter.co.il/wp-content/uploads/2016/01/bkg.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    }
-    </style>
-    '''
-    st.markdown(page_bg_img, unsafe_allow_html=True)
+    #page_bg_img = '''
+    #<style>
+    #body {
+    #background-image: url("https://hicenter.co.il/wp-content/uploads/2016/01/bkg.jpg");
+    #background-size: cover;
+    #background-repeat: no-repeat;
+    #}
+    #</style>
+    #'''
+    #st.markdown(page_bg_img, unsafe_allow_html=True)
 
     st.write("""
     ## ------- **Predict customer churn in a bank using :** ------
